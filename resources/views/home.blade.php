@@ -3,7 +3,7 @@
 @section('content')
     <div class="row">
     <div class="text-center">
-        <h1>Welcome to Laravel Materiel Design with Bootstrap Boilerplate</h1>
+        <h1>Welcome to Laravel Materiel Design with Bootstrap</h1>
         <hr/>
         <p>Floating action buttons</p>
 		<a href="javascript:void(0)" class="btn btn-default btn-fab btn-raised mdi-action-grade"></a>
